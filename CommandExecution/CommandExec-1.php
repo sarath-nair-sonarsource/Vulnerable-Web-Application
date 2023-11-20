@@ -10,6 +10,7 @@
     </div>
     <div style="background-color:#c9c9c9;padding:20px;">
       <h1 align="center">Login as Admin</h1>
+      <h1 align="center">Login as Someone</h1>
     <form align="center" action="CommandExec-1.php" method="$_GET">
       <label align="center">Username:</label><br>
       <input align="center" type="text" name="username" value="Admin"><br>
